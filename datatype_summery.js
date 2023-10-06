@@ -12,12 +12,13 @@
 
 const hero = ["shaktiman", "ironman", "thor"]
 
-// objects
+// objects  *object write in {}.
 
 let myobj = {
     name:"dhruvin",
     age: 26,
     weight: "47kg",
+
 }
 
 // function
